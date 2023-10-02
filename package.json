@@ -21,6 +21,7 @@
     "clean:tests": "docker rmi tsc-hooks-test --force"
   },
   "dependencies": {
+    "chokidar": "^3.5.2",
     "json5": "^2.2.0"
   },
   "devDependencies": {
